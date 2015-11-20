@@ -1,4 +1,4 @@
 $( document ).ready(function() {
     var paragraphs = $( 'p' );
-    paragraphs.css({"color": "blue", "font-family": "garamond", "font-size": "12px"});
+    paragraphs.css({"color": "navy", "font-family": "garamond", "font-size": "12px"});
 });
